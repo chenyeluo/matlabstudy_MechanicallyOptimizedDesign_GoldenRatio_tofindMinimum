@@ -1,1 +1,2 @@
 # matlabstudy_MechanicallyOptimizedDesign_GoldenRatio_tofindMinimum
+以f(x)=x^3-2x^2为案例，一维搜索使用黄金分割的方法在确定的区间求解极小值
